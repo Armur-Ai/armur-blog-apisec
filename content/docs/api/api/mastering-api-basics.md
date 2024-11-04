@@ -1,12 +1,9 @@
 ---
 title: "Mastering API Basics: Architectures, Methods, and Documentation"
-description: "Learn about REST, SOAP, GraphQL, HTTP methods, API documentation, and hands-on exploration with Postman."
-image: "https://armur-ai.github.io/armur-blog-pentest/images/security-fundamentals.png"
+image: "https://armur-ai.github.io/armur-blog-apisec/images/1.avif"
 icon: "code"
 draft: false
 ---
-
-## Introduction to APIs: The Building Blocks of Modern Software
 
 Application Programming Interfaces (APIs) are the unsung heroes of the modern digital world, enabling seamless communication and data exchange between diverse applications. Whether it's booking a flight, ordering food online, or accessing your bank account, APIs are working behind the scenes to connect different software systems and provide a unified user experience. Understanding the fundamental concepts of APIs, including their architectures, communication methods, and documentation practices, is crucial for developers and security professionals alike. This tutorial will guide you through the essentials of API basics, covering popular architectural styles, HTTP methods, API documentation with OpenAPI/Swagger, and hands-on exploration using Postman.
 

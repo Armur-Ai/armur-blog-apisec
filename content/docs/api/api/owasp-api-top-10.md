@@ -1,12 +1,9 @@
 ---
-title: "OWASP API Top 10: Understanding and Mitigating Key API Vulnerabilities"
-description: "Explore the OWASP API Security Top 10 vulnerabilities, threat modeling, and practical strategies for securing your APIs."
-image: "https://armur-ai.github.io/armur-blog-pentest/images/security-fundamentals.png"
+title: "OWASP API Top 10"
+image: "https://armur-ai.github.io/armur-blog-apisec/images/1.avif"
 icon: "code"
 draft: false
 ---
-
-## Introduction to OWASP API Top 10: Navigating the API Security Landscape
 
 APIs, while powering the interconnected world of applications, also introduce new security challenges. The Open Web Application Security Project (OWASP) API Security Top 10 serves as a crucial guide for navigating this complex landscape. This list, curated by industry experts and based on extensive research, highlights the most critical security risks faced by web APIs. Understanding these vulnerabilities and implementing robust security controls is paramount for safeguarding your applications and data.
 

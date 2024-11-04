@@ -1,12 +1,9 @@
 ---
-title: "OAuth 2.0 and JWT: Securing API Access with Industry Standards"
-description: "Learn about OAuth 2.0 grant types, OpenID Connect for user authentication, JWT structure and implementation, and securing API endpoints."
-image: "https://armur-ai.github.io/armur-blog-pentest/images/security-fundamentals.png"
+title: "OAuth 2.0 and JWT"
+image: "https://armur-ai.github.io/armur-blog-apisec/images/2.jpg"
 icon: "code"
 draft: false
 ---
-
-## Introduction: Securing APIs with OAuth 2.0 and JWT: A Deep Dive into Modern Authentication and Authorization
 
 In the interconnected landscape of modern applications, APIs serve as the crucial bridges that facilitate communication and data exchange between diverse systems. Securing these APIs is paramount to safeguard sensitive data, maintain system integrity, and ensure user privacy. OAuth 2.0 and JWT (JSON Web Token) have emerged as industry-standard frameworks for robust authentication and authorization in API ecosystems. This tutorial embarks on a deep dive into the intricacies of OAuth 2.0 and JWT, exploring their core concepts, implementation details, and how they work together to establish a formidable security layer for API access.
 

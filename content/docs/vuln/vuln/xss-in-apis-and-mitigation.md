@@ -1,12 +1,9 @@
 ---
-title: "Cross-Site Scripting (XSS) in APIs & Mitigation: Protecting Against Malicious Script Injection"
-description: "Explore how to exploit XSS vulnerabilities in API responses, understand their impact, and implement effective input sanitization and output encoding techniques for mitigation."
-image: "https://armur-ai.github.io/armur-blog-pentest/images/security-fundamentals.png"
+title: "Cross-Site Scripting (XSS) in APIs & Mitigation"
+image: "https://armur-ai.github.io/armur-blog-apisec/images/4.jpg"
 icon: "code"
 draft: false
 ---
-
-## Introduction: Understanding Cross-Site Scripting (XSS) in APIs
 
 Cross-Site Scripting (XSS) is a type of injection attack that occurs when an application allows untrusted user input to be included in its output without proper sanitization or encoding. This can lead to attackers injecting malicious scripts into web pages viewed by other users, potentially compromising their sensitive information or taking control of their accounts. While traditionally associated with web applications, XSS vulnerabilities can also affect APIs, especially those that return HTML or JavaScript content.
 

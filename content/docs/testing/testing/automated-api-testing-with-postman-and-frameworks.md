@@ -1,12 +1,9 @@
 ---
-title: "Automated API Testing with Postman & Frameworks: Ensuring API Quality and Reliability"
-description: "Learn how to write comprehensive API tests with Postman, leverage frameworks like RestAssured for automated testing, and integrate API testing into your CI/CD pipeline."
-image: "https://armur-ai.github.io/armur-blog-pentest/images/security-fundamentals.png"
+title: "Automated API Testing with Postman & Frameworks"
+image: "https://armur-ai.github.io/armur-blog-apisec/images/3.jpg"
 icon: "code"
 draft: false
 ---
-
-## Introduction: The Importance of API Testing in Modern Software Development
 
 APIs are the backbone of modern software development, enabling communication and data exchange between different applications. Ensuring the quality and reliability of these APIs is crucial for the success of any software project. API testing plays a vital role in verifying the functionality, performance, and security of APIs, helping to identify and resolve defects early in the development lifecycle. This tutorial delves into the world of automated API testing, exploring how to write comprehensive tests using Postman, leverage frameworks like RestAssured for robust automation, and seamlessly integrate API testing into your CI/CD pipeline for continuous quality assurance.
 

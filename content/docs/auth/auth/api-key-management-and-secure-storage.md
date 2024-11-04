@@ -1,12 +1,9 @@
 ---
-title: "API Key Management & Secure Storage: Best Practices for Protecting Sensitive Credentials"
-description: "Explore best practices for generating, storing, and rotating API keys, and learn how to mitigate risks associated with key compromise."
-image: "https://armur-ai.github.io/armur-blog-pentest/images/security-fundamentals.png"
+title: "API Key Management & Secure Storage"
+image: "https://armur-ai.github.io/armur-blog-apisec/images/2.jpg"
 icon: "code"
 draft: false
 ---
-
-## Introduction: The Importance of API Key Security: Safeguarding the Keys to Your Digital Kingdom
 
 API keys are the digital keys that grant access to your APIs, enabling applications and users to interact with your services and data. Protecting these keys is paramount to prevent unauthorized access, data breaches, and potential financial losses. This tutorial delves into the best practices for API key management and secure storage, providing practical guidance on generating, storing, and rotating keys while mitigating the risks associated with key compromise. By implementing a robust API key management strategy, you can build a secure foundation for your API ecosystem, safeguarding your valuable resources and maintaining user trust.
 
